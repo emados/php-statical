@@ -1,5 +1,7 @@
 <?php
 
+namespace PhpStatical\Example;
+
 class Language
 {
     protected $lang;
