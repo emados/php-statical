@@ -1,8 +1,6 @@
 <?php
 
-namespace PhpStatical\Example;
-
-class Language
+class ExampleTargetClass
 {
     protected $lang;
 
